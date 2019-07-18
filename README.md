@@ -13,7 +13,7 @@ soldier kills the soldier (that's still alive) next to him, then the next soldie
 circle (still alive) kills the next soldier (still alive) next to him. This goes on till
 there's only one soldier left (the one that survived).
 
-The problem — given the number of soldier — is to choose the position in the initial circle to 
+The problem — given the number of soldiers — is to choose the position in the initial circle to 
 avoid execution.
 
 -----Example:
